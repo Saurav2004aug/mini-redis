@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.aof
+*.aof.rewrite.tmp
+*.log
+.DS_Store

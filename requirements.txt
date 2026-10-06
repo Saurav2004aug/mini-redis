@@ -1,0 +1,2 @@
+# No dependencies: mini-redis uses only the Python standard library (asyncio).
+# Optional, for trying it out with a real client:  pip install redis
